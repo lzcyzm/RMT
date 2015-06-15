@@ -1,4 +1,5 @@
-# RMT
+
+RMT package: extract combinatorial RNA methylome from multiple MeRIP-Seq datasets
 RMT is now part of exomePeak package
 
 Install the current exomePeak package from Bioconductor 
