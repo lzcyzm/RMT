@@ -1,5 +1,0 @@
-exportPattern("^[[:alpha:]]+")
-export(RMT)
-export(xls2Grangeslist)
-
-
